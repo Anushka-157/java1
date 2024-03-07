@@ -1,0 +1,16 @@
+.heading
+{
+    color: black;
+}
+body{
+    background-color: aqua;
+}
+.container{
+    border: 2px solid rgb(60, 0, 255);
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    /*height: 90vh;*/
+}

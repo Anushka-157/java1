@@ -1,0 +1,10 @@
+.container{
+    color: rgb(20, 19, 19);
+    background-color:white;
+
+}
+.heading{
+    flex-flow: row-reverse;
+    margin-left: 250px;
+    margin-top: 250px;
+}
